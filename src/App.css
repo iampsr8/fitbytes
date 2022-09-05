@@ -157,7 +157,7 @@ body {
     }
     .left-arrow,
     .right-arrow {
-      display:none !important;
+      /* display:none !important; */
       /* width:15px; */
     }
     .nav-items{

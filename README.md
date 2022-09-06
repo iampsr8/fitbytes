@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# FitBytes
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![](https://github.com/iampsr8/fitbytes/blob/master/display/fss1.png)
+
+![](https://github.com/iampsr8/fitbytes/blob/master/display/fss2.png)
+
+![](https://github.com/iampsr8/fitbytes/blob/master/display/fss3.png)
+
+![](https://github.com/iampsr8/fitbytes/blob/master/display/fss4.png)
 
 ## Available Scripts
 

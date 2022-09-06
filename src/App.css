@@ -172,3 +172,11 @@ body {
 .borderbred{
   border-bottom:1px solid #ff2526;
 }
+
+.footer-link{
+  color:black;
+  margin:0 10px;
+}
+.footer-link:hover{
+  color:#ff2526
+}
